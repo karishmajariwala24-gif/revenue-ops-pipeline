@@ -1,0 +1,31 @@
+Task ID,Task Name,Industry,Segment,Deal Value,Section,Assignee,Start Date,Due Date,Priority,Status
+D001,Apex Cybersecurity - $217621,Technology,Enterprise,217621,Lead,Sarah Mitchell,2026-03-06,2026-07-16,On Track,Not Applicable
+D002,Cascade Health Systems - $24144,Healthcare,Mid-Market,24144,Closed Won,James Chen,2026-03-14,2026-04-29,Closed,Reconciled
+D003,Northstar Financial - $74561,Finance,Enterprise,74561,Qualified,Priya Patel,2026-04-05,2026-06-30,Overdue,Not Applicable
+D004,Greenleaf Organics - $22856,Consumer Goods,SMB,22856,Proposal,Sarah Mitchell,2026-04-12,2026-06-29,Overdue,Not Applicable
+D005,Velocity Logistics - $60753,Logistics,Mid-Market,60753,Proposal,James Chen,2026-05-04,2026-07-20,On Track,Not Applicable
+D006,Pinnacle Education Group - $149595,Education,Enterprise,149595,Lead,Priya Patel,2026-02-20,2026-07-21,Overdue,Not Applicable
+D007,Redwood Manufacturing - $67895,Manufacturing,Mid-Market,67895,Lead,Sarah Mitchell,2026-04-11,2026-08-02,On Track,Not Applicable
+D008,Summit Media Group - $7582,Media,SMB,7582,Proposal,James Chen,2026-02-22,2026-08-04,On Track,Not Applicable
+D009,Ironclad Insurance - $62012,Finance,Enterprise,62012,Closed Won,Priya Patel,2026-03-02,2026-03-30,Closed,Discrepancy Found
+D010,Pacific Retail Corp - $44714,Retail,Mid-Market,44714,Closed Won,Sarah Mitchell,2026-04-23,2026-06-01,Closed,Reconciled
+D011,BlueShift Analytics - $7339,Technology,SMB,7339,Closed Won,James Chen,2026-05-18,2026-06-22,Closed,Reconciled
+D012,Horizon Aerospace - $217772,Aerospace,Enterprise,217772,Closed Won,Priya Patel,2026-05-11,2026-06-16,Closed,Reconciled
+D013,Metro Healthcare Partners - $67759,Healthcare,Mid-Market,67759,Qualified,Sarah Mitchell,2026-05-05,2026-07-12,Overdue,Not Applicable
+D014,Ember Energy Solutions - $238196,Energy,Enterprise,238196,Qualified,James Chen,2026-03-17,2026-07-24,Overdue,Not Applicable
+D015,Coastal Real Estate Group - $9681,Real Estate,SMB,9681,Qualified,Priya Patel,2026-05-08,2026-08-03,Overdue,Not Applicable
+D016,Atlas Construction - $63956,Construction,Mid-Market,63956,Proposal,Sarah Mitchell,2026-03-26,2026-07-13,On Track,Not Applicable
+D017,Prism Software Inc - $21171,Technology,SMB,21171,Lead,James Chen,2026-06-02,2026-07-06,On Track,Not Applicable
+D018,Silver Creek Hotels - $66909,Hospitality,Mid-Market,66909,Closed Won,Priya Patel,2026-03-24,2026-05-03,Closed,Pending Reconciliation
+D019,Falcon Defense Systems - $188704,Aerospace,Enterprise,188704,Qualified,Sarah Mitchell,2026-03-30,2026-08-11,Overdue,Not Applicable
+D020,Riverdale Pharma - $228706,Healthcare,Enterprise,228706,Closed Lost,James Chen,2026-03-04,2026-04-05,Closed,Not Applicable
+D021,Quantum Data Labs - $19246,Technology,SMB,19246,Qualified,Priya Patel,2026-06-08,2026-08-14,On Track,Not Applicable
+D022,Oakwood Financial - $64935,Finance,Mid-Market,64935,Qualified,Sarah Mitchell,2026-05-26,2026-07-18,Overdue,Not Applicable
+D023,Trident Shipping - $209637,Logistics,Enterprise,209637,Qualified,James Chen,2026-04-22,2026-08-02,Overdue,Not Applicable
+D024,Bloom Wellness - $5018,Healthcare,SMB,5018,Proposal,Priya Patel,2026-04-07,2026-07-22,Overdue,Not Applicable
+D025,Digital First Media - $12846,Media,SMB,12846,Lead,Sarah Mitchell,2026-02-16,2026-08-04,On Track,Not Applicable
+D026,ClearView Optics - $62966,Manufacturing,Mid-Market,62966,Proposal,James Chen,2026-05-31,2026-07-07,Overdue,Not Applicable
+D027,Pioneer Education - $23015,Education,SMB,23015,Qualified,Priya Patel,2026-04-02,2026-07-26,On Track,Not Applicable
+D028,SkyBridge Telecom - $247988,Telecom,Enterprise,247988,Closed Won,Sarah Mitchell,2026-05-14,2026-06-30,Closed,Resolved
+D029,FreshStart Foods - $43711,Consumer Goods,Mid-Market,43711,Closed Lost,James Chen,2026-04-12,2026-05-12,Closed,Not Applicable
+D030,CoreTech Solutions - $138627,Technology,Enterprise,138627,Lead,Priya Patel,2026-03-30,2026-07-13,Overdue,Not Applicable
